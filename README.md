@@ -4,6 +4,7 @@
 pragma solidity ^0.8;
 
 contract Readme {
+    string public user = "james-toussaint";
     string public data = "🌍 💻 🌱";
 }
 ```
