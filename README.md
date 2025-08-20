@@ -1,5 +1,12 @@
-## Hi there 👋
+## About
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8;
 
+contract Readme {
+    string public data = "🌍 💻 🌱";
+}
+```
 <!--
 **james-toussaint/james-toussaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
